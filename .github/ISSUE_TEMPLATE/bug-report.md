@@ -1,9 +1,10 @@
 ---
 name: Bug Report
 about: Vorlage für das Reporten eines Fehlers
-title: ""
-labels: ""
-assignees: ""
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 ## WICHTIGE INFORMATION!!:

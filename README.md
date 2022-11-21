@@ -1,6 +1,6 @@
-# SunnyV-Bugtracker!
+# SunnyV-Bugtracker
 
-## WICHTIGE INFORMATION!!:
+## WICHTIGE INFORMATION:
 
 Schaue vorher in die Liste ob dein Fehler nicht vielleicht bereits aufgetreten ist.
 Die Liste der aktuellen Fehler findest du oben im Reiter [Issues](https://github.com/DevSunnyV/sunny_v_issues/issues)

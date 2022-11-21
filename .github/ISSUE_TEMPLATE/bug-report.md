@@ -9,19 +9,15 @@ assignees: ''
 
 ## WICHTIGE INFORMATION!!:
 
-```
-Hier sollen nur Bugs gemeldet werden, Vorschläge bitte ins Forum!
-```
-
-<!-- Bitte die Vorlage unten vollständig ausfüllen -->
+<!-- Vorlage unten vollständig ausfüllen -->
 
 **Character Name**
 
-<!-- Mit welchem Character wurde das Verhalten in-game ausgelöst/beobachtet -->
+<!-- Mit welchem Character wurde der Fehler ausgelöst -->
 
 **Auftrittszeitpunkt (Datum / Uhrzeit)**
 
-<!-- Wann exakt (Datum / Uhrzeit) ist der Fehler beobachtet worden -->
+<!-- Wann (Datum / Uhrzeit) ist der Fehler aufgetreten -->
 
 **Beobachtetes Verhalten**
 
@@ -29,16 +25,13 @@ Hier sollen nur Bugs gemeldet werden, Vorschläge bitte ins Forum!
 
 **Erwartetes Verhalten**
 
-<!--- Beschreibe wie es richtigerweise sein sollte -->
+<!--- Beschreibe was eigentlich passieren sollte -->
 
 **Schritte um den Fehler nachvollziehen zu können**
 
-<!--- Beschreibe Schritt für Schritt wie man den Fehler nachstellen kann -->
+<!--- Beschreibe Schritt für Schritt was du gemacht hast bevor der Fehler aufgetreten ist -->
 
-**Monitorauflösung (nur wenn Falsche Darstellung in der UI)**
-
-<!--- Beschreibe Schritt für Schritt wie man den Fehler nachstellen kann -->
 
 **Optional: Video / Bilder des Fehlers**
 
-<!--- Falls du ein Video oder Bild vom Fehler gemacht hast, dann kannst du diesen hier einfügen. Dies geht ganz einfach per Drag & Drop -->
+<!--- Dies geht ganz einfach per Drag & Drop -->
